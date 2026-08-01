@@ -92,7 +92,7 @@ else
 
 // 6.CHECK STRONG NUMBER
 let n2: number = 145;
-let temp1 = num;
+let temp1 = n2;
 let sum2 = 0;
 
 while (temp1 > 0) {
