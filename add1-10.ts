@@ -79,7 +79,7 @@ else
 let n1: number = 28;
 let sum1 = 0;
 
-for (let i = 1; i < n; i++) {
+for (let i = 1; i < n1; i++) {
     if (n1% i == 0)
         sum1 += i;
 }
